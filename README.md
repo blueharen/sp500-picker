@@ -1,6 +1,6 @@
 # sp500-picker
 Randomly pick a stock from the s&amp;p500
 
-Just testing html/css
+![Homepage](sp.png?raw=true "Homepage")
 
-Nothing special
+**not investment advice**
